@@ -1,0 +1,5 @@
+reference/
+verification/
+deployment-report.json
+scripts/
+*.log
